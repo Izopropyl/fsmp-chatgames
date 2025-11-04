@@ -3159,3 +3159,9 @@ trivia:
       question: 'Kratos is the main character of what video game series?'
       answers:
       - 'God of War'
+    278:
+      question: 'True or False? There is gravity on the moon'
+      answers:
+      - 'true'
+      - 'True'
+
