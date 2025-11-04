@@ -1824,6 +1824,9 @@ trivia:
       question: 'What is the UK currency?'
       answers: 
         - 'Pound'
+        - 'Pounds'
+        - 'Pound sterling'
+        - 'Pounds sterling'
     13:
       question: 'How many legs do spiders have?'
       answers: 
@@ -2161,7 +2164,6 @@ trivia:
       question: 'What is the chemical symbol for gold?'
       answers: 
         - 'Au'
-        - 'AU'
     92:
       question: 'What is the world''s largest island?'
       answers: 
@@ -2313,6 +2315,7 @@ trivia:
       question: 'What material is used to tame cats?'
       answers:
         - 'Fish'
+        - 'Raw Fish'
     128:
       question: 'What biome is home to bamboo?'
       answers:
@@ -3026,4 +3029,133 @@ trivia:
         - "SUEN"
         - "SUEN18"
         - "Suen"
+
         - "Suen18"
+    254:
+      question: 'Im green, bouncy, and found in swamps! What am I?'
+      answers:
+      - 'Slime'
+    255:
+      question: 'What is PICKAXE backwards?'
+      answers:
+      - 'EXAKCIP'
+    256: 
+      question: 'Julius Caesar was once famously kidnapped by a group of _'
+      answers:
+      - 'Pirates'
+    257:
+      question: 'What is the name of the bucktoothed squirell in Spongebob?'
+      answers:
+      - 'Sandy'
+      - 'Sandy Cheeks'
+    258:
+      question: 'Name any FSMP staff member (username)'
+      answers:
+      - 'Jamplifier'
+      - 'rarerarera'
+      - 'Kovei_ykla'
+      - 'Kingidk'
+      - 'MattPad_'
+      - 'Wasabi484'
+      - 'Crashidk'
+      - 'ChefJeff23'
+      - 'Gamercorpse'
+      - 'maxbdot'
+      - 'starboooost'
+      - 'Pompoms3000'
+    259:
+      question: 'What element has the chemical symbol Sb?'
+      answers:
+      - 'Antimony'
+    260:
+      question: 'What does CPU stand for in computers?'
+      answers:
+      - 'Central Processing Unit'
+      - 'Center Processing Unit'
+    261:
+      question: 'True or False? A platypus is not a mammal.'
+      answers:
+      - 'False'
+      - 'false'
+    262:
+      question: 'How many arms do most starfish have?'
+      answers:
+      - '5'
+      - 'five'
+      - 'Five'
+    263:
+      question: 'What is the largest bird in the world?'
+      answers:
+      - 'Ostrich'
+      - 'ostrich'
+    264:
+      question: 'True or false? Hummingbirds can fly backwards'
+      answers:
+      - 'True'
+      - 'true'
+    265:
+      question: 'Which famous classical composer was deaf?'
+      answers:
+      - 'Ludwig van Beethoven'
+      - 'Beethoven'
+    266: 
+      question: 'In what year did Michael Jackson die?'
+      answers:
+      - '2009'
+    267:
+      question: 'How many members did the Beatles have?'
+      answers:
+      - 'Four'
+      - 'four'
+      - '4'
+    268:
+      question: 'An area that receives <10 inches of rainfall each year is a __'
+      answers:
+      - 'desert'
+      - 'Desert'
+    269:
+      question: 'What is the largest planet in the solar system?'
+      answers:
+      - 'Jupiter'
+    270:
+      question: 'True or False? The sun is a planet'
+      answers:
+      - 'False'
+      - 'false'
+    271:
+      question: 'What is the largest organ in the human body?'
+      answers:
+      - 'Skin'
+      - 'skin'
+      - 'the skin'
+      - 'The Skin'
+    272:
+      question: 'Where does K-pop come from?'
+      answers:
+      - 'South Korea'
+      - 'Korea'
+    273:
+      question: 'How many rings does the olympics logo have?'
+      answers:
+      - '5'
+      - 'five'
+      - 'Five'
+    274:
+      question: 'What is the highest-grossing film of all time?'
+      answers:
+      - 'Avatar'
+    275:
+      question: 'How many ghosts chase Pac-Man at the start of each game?'
+      answers:
+      - '4'
+      - 'four'
+      - 'Four'
+    276:
+      question: 'What game studio makes the Red Dead Redemption series?'
+      answers:
+      - 'Rockstar'
+      - 'Rockstar Games'
+    277:
+      question: 'Kratos is the main character of what video game series?'
+      answers:
+      - 'God of War'
