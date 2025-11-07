@@ -3164,4 +3164,61 @@ trivia:
       answers:
       - 'true'
       - 'True'
-
+    279:
+      question: 'Which transcontinental country spans 11 time zones?'
+      answers:
+      - 'Russia'
+    280:
+      question: 'Lódz, Wroclaw, and Poznan are the third, fourth, and fifth most populous cities in what country?'
+      answers:
+      - 'Poland'
+    281:
+      question: 'What famous highway is also known as the Will Rogers Memorial Highway?'
+      answers:
+      - 'Route 66'
+    282:
+      question: 'What country speaks the language Maori?'
+      answers:
+      - 'New Zealand'
+    283:
+      question: 'Which country speaks the language Shona?'
+      answers:
+      - 'Zimbabwe'
+    284:
+      question: 'In what country is the world largest mosque located?'
+      answers:
+      - 'Saudi Arabia'
+    285:
+      question: 'Tegucigalpa is the capital city of what Central American country?
+      answers:
+      - 'Honduras'
+    286:
+      question: 'Which American state is the smallest?'
+      answers:
+      - 'Rhode Island'
+    287:
+      question: 'In what city are the Palm Islands located?'
+      answers:
+      - 'Dubai'
+    288:
+      question: 'What element has 79 protons?'
+      answers:
+      - 'Gold'
+      - 'Au'
+    289:
+      question: 'What TV show features an alien traveling in a blue police box?'
+      answers:
+      - 'Doctor Who'
+      - 'Dr Who'
+      - 'Dr. Who'
+    290:
+      question: 'Who composed the music for the game God of War: Ragnarok?'
+      answers:
+      - 'Bear McCreary'
+      - 'Bear Mccreary'
+    291:
+      question: 'How many letters are in the word hippopotomonstrosesquippedaliophobiaho?'
+      answers:
+      - '36'
+      - 'Thirty Six'
+      
