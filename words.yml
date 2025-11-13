@@ -3063,6 +3063,7 @@ trivia:
       - 'maxbdot'
       - 'starboooost'
       - 'Pompoms3000'
+      - 'Jesssa'
     259:
       question: 'What element has the chemical symbol Sb?'
       answers:
@@ -3225,4 +3226,62 @@ trivia:
       question: 'What is the tallest mountain in the solar system?'
       answers:
       - 'Olympus Mons'
+    293:
+      question: 'I hiss and explode when I get too close to you. What am I?'
+      answers:
+      - 'Creeper'
+      - 'creeper'
+    294:
+      question: 'I am tall, dark, and teleport around. I dont like water or being looked at. What am I?'
+      answers:
+      - 'Enderman'
+      - 'enderman'
+    295:
+      question: 'I fly and shoot fireballs at you. What am I?'
+      answers:
+      - 'Ghast'
+      - 'ghast'
+    296:
+      question: 'I am a giant boss mob that flies and breathes purple fire. What am I?'
+      answers:
+      - 'Ender Dragon'
+      - 'ender dragon'
+      - 'Ender dragon'
+      - 'ender Dragon'
+    297:
+      question: 'I am a floating, three-headed mob that shoots explosive skulls. What am I?'
+      answers:
+      - 'Wither'
+      - 'wither'
+      - 'The Wither'
+      - 'the wither'
+      - 'The wither'
+    298:
+      question: 'I protect villages at night, but Im not a player. Im made of metal and flowers. What am I?'
+      answers:
+      - 'Iron Golem'
+      - 'iron golem'
+      - 'Iron golem'
+      - 'iron Golem'
+    299:
+      question: 'In what year was NATO established?'
+      answers:
+        - '1949'
+    300:
+      question: 'What comes before thunder?'
+      answers:
+        - 'Lightning'
+        - 'lightning'
+    301:
+      question: 'What is 9 + 10?'
+      answers:
+        - '21'
+    302:
+    question: 'What is the cpaital of Luxembourg?'
+    answers:
+      - 'Luxembourg City'
+      - 'luxembourg city'
+      - 'Luxembourg city'
+      - 'Luxembourg'
+      - 'luxembourg'
 
