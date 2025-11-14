@@ -1787,7 +1787,10 @@ trivia:
     3:
       question: 'What is the longest river in the world?'
       answers: 
-        - 'Amazon'
+        - 'Nile'
+        - 'The Nile'
+        - 'nile'
+        - 'the nile'
     4:
       question: 'What kind of animal is the whale?'
       answers: 
@@ -3276,6 +3279,8 @@ trivia:
       question: 'What is 9 + 10?'
       answers:
         - '21'
+        - 'Twenty one'
+        - 'twenty one'
     302:
     question: 'What is the cpaital of Luxembourg?'
     answers:
@@ -3284,4 +3289,110 @@ trivia:
       - 'Luxembourg city'
       - 'Luxembourg'
       - 'luxembourg'
-
+    303:
+      question: 'What is the largest mammal in the world?'
+      answers:
+        - 'Blue Whale'
+        - 'blue whale'
+    304:
+      question: 'What is the smallest country in the world?' 
+      answers:
+        - 'Vatican City'
+        - 'vatican city'
+        - 'Vatican city'
+        - 'Vatican'
+        - 'vatican'
+        - 'the Vatican'
+        - 'The Vatican'
+    305: 
+      question: 'What doess UFO stand for'
+      answers:
+        - 'Unidentified Flying Object'
+        - 'Unidentified flying object'
+        - 'unidentified flying object'
+    306:
+      question: 'What US state hosts the biggest horse race in the world?'
+      answers:
+        - 'Kentucky'
+        - 'KY'
+        - 'kentucky'
+    307:
+      question: 'What is the powerhosue of the cell?'
+      answers:
+        - 'Mitochondria'
+        - 'mitochondria'
+    308:
+      question: 'What unit measures the intensity of sound?'
+      answers:
+      - 'Decibel'
+      - 'decibel'
+      - 'decibels'
+      - 'Decibels'
+    309:
+      question: 'What is the official language of Egypt?'
+      answers:
+      - 'Arabic'
+      - 'arabic'
+    310:
+      question: 'What country has the most natural lakes?'
+      answers:
+      - 'Canada'
+      - 'canada'
+    311:
+      question: 'Which country has the most pyramids in the world?'
+      answers: 
+      - 'Sudan'
+      - 'sudan'
+    312:
+      question: 'What is the hardest natural substance on Earth?'
+      answers:
+      - 'Diamond'
+      - 'diamond'
+    313: 
+      question: 'What is the capital of Iceland?'
+      answers:
+      - 'Reykjavik'
+      - 'reykjavik'
+    314:
+      question: 'Who proposed the theory of relativity?'
+      answers:
+      - 'Albert Einstein'
+      - 'einstein'
+      - 'Einstein'
+    315:
+      question: 'What is the largest internal organ in the human body?'
+      answers:
+      - 'Liver'
+      - 'liver'
+    316:
+      question: 'What is the main ingredient in traditional Japanese miso soup?'
+      answers:
+      - 'Miso paste'
+      - 'miso paste'
+    317:
+      question: 'What is the chemical symbol for potassium?'
+      answers:
+      - 'K'
+      - 'k'
+    318:
+      question: 'In which country did pizza originate?'
+      answers:
+      - 'Italy'
+      - 'italy'
+    319:
+      question: 'What is the main ingredient in hummus?'
+      answers:
+      - 'Chickpeas'
+      - 'chickpeas'
+      - 'Garbanzo beans'
+      - 'garbanzo beans'
+    320:
+      question: "Who is the 'King of Pop'?"
+      answers:
+      - 'Michael Jackson'
+      - 'michael jackson'
+    321:
+      question: 'What color is a polar bears skin?'
+      answers:
+      - 'Black'
+      - 'black'
