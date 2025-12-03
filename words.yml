@@ -3762,10 +3762,10 @@ trivia:
         - "jk simmons"
         - "j k simmons"
     381:
-      question: "Which 2013 historical drama, based on a true story, won the Academy Award for Best Picture?"
+      question: "What is the title screen occasionally misspelled as, in a rare Easter Egg?"
       answers:
-        - "12 Years a Slave"
-        - "twelve years a slave"
+        - "Minceraft"
+        - "Min-ceraft"
     382:
       question: "What is the fictional name of the missing woman in the 2014 mystery-thriller Gone Girl?"
       answers:
@@ -4486,8 +4486,4 @@ trivia:
         - "Zombified Piglin"
         - "Zombie Pigman"
         - "Zombie Piglin"
-    502:
-      question: "What is the title screen occasionally misspelled as, in a rare Easter Egg?"
-      answers:
-        - "Minceraft"
-        - "Min-ceraft"
+
