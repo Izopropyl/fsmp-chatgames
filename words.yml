@@ -3506,8 +3506,8 @@ trivia:
         - "Gwyneth Paltrow"
         - "gwyneth paltrow"
     338:
-    question: "Which Pixar film from 2010 sees the toys mistakenly sent to a daycare center?"
-    answers:
+      question: "Which Pixar film from 2010 sees the toys mistakenly sent to a daycare center?"
+      answers:
       - "Toy Story 3"
       - "toy story 3"
     339:
