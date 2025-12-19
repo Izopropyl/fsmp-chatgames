@@ -3412,274 +3412,272 @@ trivia:
       answers:
         - "2012"
     324:
-      question: "What is the name of the sentient A.I. that eventually becomes Vision in Avengers: Age of Ultron (2015)?"
+      question: "What is the name of the A.I. that becomes Vision in Marvel Comics?"
       answers:
         - "J.A.R.V.I.S."
         - "JARVIS"
         - "Just A Rather Very Intelligent System"
         - "j.a.r.v.i.s."
         - "jarvis"
+        - "Jarvis"
         - "just a rather very intelligent system"
     325:
-      question: "Which Marvel movie, released in 2018, takes place primarily in the fictional African nation of Wakanda?"
+      question: "Which 2018 Marvel movie takes place in Wakanda?"
       answers:
         - "Black Panther"
         - "black panther"
+        - "Black panther"
     326:
-      question: "What character is mentored by Peter Parker in Spider-Man: Homecoming (2017) and Spider-Man: Far From Home (2019)?"
+      question: "What character is mentored by Iron Man in Spider-Man: Homecoming?"
       answers:
         - "Iron Man"
         - "Tony Stark"
         - "iron man"
         - "tony stark"
     327:
-      question: "What famous line does Thanos say after using the Infinity Gauntlet in Avengers: Infinity War (2018)?"
+      question: "What does Thanos say when using the Infinity Gauntlet in Avengers: Infinity War?"
       answers:
         - "I am inevitable"
         - "i am inevitable"
     328:
-      question: "Who is the main villain in Thor: Ragnarok (2017), who also happens to be Thor's older sister?"
+      question: "Who is the main villain in Thor: Ragnarok?"
       answers:
         - "Hela"
         - "hela"
     329:
-      question: "What is the title of the final film in the original nine-movie Star Wars saga (released 2019), which is technically a Disney release post-2010?"
+      question: "What is the title of the final film in the original Star Wars saga?"
       answers:
         - "The Rise of Skywalker"
         - "rise of skywalker"
         - "Star Wars: The Rise of Skywalker"
         - "star wars: the rise of skywalker"
     330:
-      question: "Which two Avengers films, released in 2018 and 2019, featured Thanos as the main antagonist?"
+      question: "What happens to a Pig when it is struck by lightning?"
       answers:
-        - "Infinity War and Endgame"
-        - "Avengers: Infinity War and Avengers: Endgame"
-        - "infinity war and endgame"
-        - "avengers: infinity war and avengers: endgame"
+        - "Turns into a Zombified Piglin"
+        - "Zombified Piglin"
+        - "Zombie Pigman"
+        - "Zombie Piglin"
     331:
-      question: "Who plays the character Captain Marvel, a.k.a. Carol Danvers, in the 2019 film?"
+      question: "Who plays the character Captain Marvel in the movie?"
       answers:
         - "Brie Larson"
         - "brie larson"
     332:
-      question: "What is the full, non-hero name of the character played by Benedict Cumberbatch in Doctor Strange (2016)?"
+      question: "What is the full name of the character played by Benedict Cumberbatch in Doctor Strange?"
       answers:
         - "Stephen Strange"
         - "Dr. Stephen Strange"
         - "stephen strange"
         - "dr. stephen strange"
     333:
-      question: "Which 2014 movie introduced the characters Star-Lord, Gamora, Drax, Rocket, and Groot?"
+      question: "Which movie introduced the characters Star-Lord, Gamora, Drax, Rocket, and Groot?"
       answers:
         - "Guardians of the Galaxy"
         - "guardians of the galaxy"
     334:
-      question: "Who directed both Guardians of the Galaxy (2014) and Guardians of the Galaxy Vol. 2 (2017)?"
+      question: "Who directed the Guardians of the Galaxy movies?"
       answers:
         - "James Gunn"
         - "james gunn"
     335:
-      question: "What is the name of the organization Tony Stark and the Avengers fight in Captain America: Civil War (2016)?"
+      question: "What do you use to collect wool from a sheep without killing it?"
       answers:
-        - "The Sokovia Accords"
-        - "Sokovia Accords"
-        - "The Accords"
-        - "the sokovia accords"
-        - "sokovia accords"
-        - "the accords"
-    336:
-      question: "Which two Marvel characters star in the 2019 Disney+ series WandaVision, which builds on their storyline from the 2010s films?"
+        - "Shears"
+        - "Shear"
+        - "shears"
+
+    499:
+      question: "What item can you wear to keep Endermen from attacking you?"
       answers:
-        - "Wanda and Vision"
-        - "Scarlet Witch and Vision"
-        - "wanda and vision"
-        - "scarlet witch and vision"
-        - "Wanda"
-        - "Vision"
-        - "Scarlet Witch"
-        - "wanda"
-        - "vision"
-        - "scarlet witch"
+        - "Carved Pumpkin"
+        - "Pumpkin"
+        - "Jack o'Lantern"
+        - "pumpkin"
+        - "carved pumpkin"
     337:
-      question: "Which actress plays Pepper Potts, Tony Stark's love interest and later CEO of Stark Industries?"
+      question: "Which actress plays Pepper Potts in the MCU?""
       answers:
         - "Gwyneth Paltrow"
         - "gwyneth paltrow"
     338:
-      question: "Which Pixar film from 2010 sees the toys mistakenly sent to a daycare center?"
+      question: "How many water buckets are needed to create an infinite water source?"
       answers:
-      - "Toy Story 3"
-      - "toy story 3"
+        - "Two"
+        - "2"
+        - "two"
     339:
-      question: "What is the name of the fictional land where the movie Frozen (2013) takes place?"
+      question: "What is the name of the kingdom where the movie Frozen takes place?"
       answers:
         - "Arendelle"
         - "arendelle"
     340:
-      question: "Who voices the character Joy in Pixar's Inside Out (2015)?"
+      question: "Who voices the character Joy in Pixar's Inside Out?"
       answers:
         - "Amy Poehler"
         - "amy poehler"
     341:
-      question: "Which animated film (2019) features a sheriff and a spaceman who embark on a road trip with a spork named Forky?"
+      question: "What animated film features a sheriff and a spaceman who go on a road trip with a spork named Forky?"
       answers:
         - "Toy Story 4"
         - "toy story 4"
     342:
-      question: "In Zootopia (2016), what kind of animal is Officer Judy Hopps?"
+      question: "In Zootopia 1, what kind of animal is Officer Judy Hopps?"
       answers:
         - "Rabbit"
         - "bunny"
+        - "rabbit"
+        - "Bunny"
     343:
-      question: "What is the name of the young girl who befriends the title character in Despicable Me (2010)?"
+      question: "What mob is naturally scared of Ocelots?"
       answers:
-        - "Agnes"
-        - "agnes"
+        - "Creeper"
+        - "creeper"
     344:
-      question: "What character is chosen by the ocean to return the heart of Te Fiti in the 2016 Disney film?"
+      question: "What disney character is chosen by the ocean to return the heart of Te Fiti?"
       answers:
         - "Moana"
         - "moana"
     345:
-      question: "The 2014 movie The Lego Movie tells the story of an ordinary construction worker named what?"
+      question: "The Lego Movie tells the story of an ordinary construction worker named what?"
       answers:
         - "Emmet Brickowski"
         - "Emmet"
         - "emmet brickowski"
         - "emmet"
     346:
-      question: "Which animated film (2018) is an unconventional take on the superhero genre and features Miles Morales as the lead?"
+      question: "Which 2018 animated film features Miles Morales as the lead?"
       answers:
-        - "Spider-Man: Into the Spider-Verse"
-        - "Into the Spider-Verse"
-        - "spider-man: into the spider-verse"
-        - "into the spider-verse"
+        - "Spider-Man: Into the Spider Verse"
+        - "Into the Spider Verse"
+        - "spider-man: into the spider verse"
+        - "into the spider verse"
     347:
       question: "Who voices the lovable snowman Olaf in Frozen?"
       answers:
         - "Josh Gad"
         - "josh gad"
     348:
-      question: "What type of reptile is the title character in the 2011 animated western film Rango?"
+      question: "What type of animal is the main character in the film Rango?"
       answers:
         - "Chameleon"
         - "chameleon"
     349:
-      question: "In How to Train Your Dragon (2010), what is the name of Hiccup's dragon?"
+      question: "In How to Train Your Dragon, what is the name of Hiccup's dragon?"
       answers:
         - "Toothless"
         - "toothless"
     350:
-      question: "Which Disney princess movie from 2010 is a modern retelling of Rapunzel?"
+      question: "Which Disney princess movie is a modern retelling of Rapunzel?"
       answers:
         - "Tangled"
         - "tangled"
     351:
-      question: "The 2017 Pixar film Coco is set during which Mexican holiday?"
+      question: "The Pixar film Coco is set during which Mexican holiday?"
       answers:
         - "Day of the Dead"
         - "Día de Muertos"
         - "dia de muertos"
         - "day of the dead"
     352:
-      question: "The villain of Wreck-It Ralph (2012) is named after a video game console. What is it?"
+      question: "Which material of tools mines the fastest but has the lowest durability?"
       answers:
-        - "Turbo"
-        - "turbo"
+        - "Gold"
+        - "Golden"
+        - "gold"
+        - "golden"
     353:
-      question: "In the 2010 film Inception, what is the name of the thief who enters people's dreams to steal or plant ideas?"
+      question: "What is the name of the main player skin/character in Minecraft?"
       answers:
-        - "Dom Cobb"
-        - "Cobb"
-        - "dom cobb"
-        - "cobb"
+        - "Steve"
     354:
-      question: "What is the name of the rogue planet that is about to collide with Earth in the 2011 Lars von Trier film Melancholia?"
+      question: "What color dye is made from a Cactus?"
       answers:
-        - "Melancholia"
-        - "melancholia"
+        - "Green"
+        - "green"
     355:
-      question: "Which movie, released in 2015, saw Tom Hardy take over the role of Max Rockatansky?"
+      question: "Which movie saw Tom Hardy as Max Rockatansky?"
       answers:
         - "Mad Max: Fury Road"
         - "Fury Road"
         - "mad max: fury road"
         - "fury road"
+        - "mad max fury road"
     356:
-      question: "The 2012 James Bond film Skyfall marked the 50th anniversary of the Bond film franchise. Who played James Bond?"
+      question: "Who played James Bond in Skyfall?"
       answers:
         - "Daniel Craig"
         - "daniel craig"
     357:
-      question: "What is the name of the main computer system in the 2014 sci-fi film Interstellar?"
+      question: "What is the name of the computer system in Interstellar?"
       answers:
         - "TARS"
         - "tars"
     358:
-      question: "Which 2014 film features a soldier (Tom Cruise) caught in a time loop fighting an alien race called the Mimics?"
+      question: "What enchantment gives an item a chance to not lower durability when used?"
       answers:
-        - "Edge of Tomorrow"
-        - "Live. Die. Repeat."
-        - "edge of tomorrow"
-        - "live. die. repeat."
+        - "Unbreaking"
+        - "unbreaking"
     359:
-      question: "What genre-blending film (2019) starring Joaquin Phoenix focuses on the origin story of Batman's arch-nemesis?"
+      question: "What film starring Joaquin Phoenix focuses on the origin story of Batman's arch-nemesis?"
       answers:
         - "Joker"
         - "joker"
     360:
-      question: "Which two actors starred as the lead pair in La La Land (2016)?"
+      question: "What redstone component is capable of pushing and/or pulling?"
       answers:
-        - "Ryan Gosling and Emma Stone"
-        - "ryan gosling and emma stone"
-        - "Gosling and Stone"
-        - "gosling and stone"
+        - "Piston"
+        - "Sticky Piston"
+        - "Pistons"
+        - "piston"
+        - "pistons"
+        - "sticky pistons"
     361:
-      question: "What is the name of the artificial intelligence character in the 2015 film Ex Machina?"
+      question: "What is the name of the A.I. character in Ex Machina?"
       answers:
         - "Ava"
         - "ava"
     362:
-      question: "In Dune (2021), what is the name of the desert planet that is the source of the spice?"
+      question: "In Dune, what is the name of the desert planet that is the source of the spice?"
       answers:
         - "Arrakis"
         - "arrakis"
     363:
-      question: "What is the name of the protagonist in The Martian (2015), who is stranded on Mars?"
+      question: "What is the name of the man in The Martian who is stranded on Mars?"
       answers:
         - "Mark Watney"
         - "mark watney"
     364:
-      question: "Which 2013 sci-fi film starred Sandra Bullock and George Clooney as astronauts stranded in space?"
+      question: "What film starred Sandra Bullock and George Clooney as astronauts stranded in space?"
       answers:
         - "Gravity"
         - "gravity"
     365:
-      question: "What is the name of the massive wall surrounding the main city in the Maze Runner trilogy, which began in 2014?"
+      question: "What is the name of the wall surrounding the camp in the Maze Runner?"
       answers:
         - "The Maze"
         - "the maze"
         - "The Wall"
         - "the wall"
     366:
-      question: "Which actor played the character Rick Dalton, a fading Hollywood star, in Quentin Tarantino's Once Upon a Time in Hollywood (2019)?"
+      question: "Who played Rick Dalton in Once Upon a Time in Hollywood?"
       answers:
         - "Leonardo DiCaprio"
         - "Leo DiCaprio"
         - "leonardo dicaprio"
         - "leo dicaprio"
     367:
-      question: "In The Hunger Games (2012), what is the name of the country where the story takes place?"
+      question: "In The Hunger Games, what is the name of the country where the story takes place?"
       answers:
         - "Panem"
         - "panem"
     368:
-      question: "Which actress won an Academy Award for her portrayal of a grieving mother seeking justice in Three Billboards Outside Ebbing, Missouri (2017)?"
+      question: "What enchantment allows a pickaxe to mine and drop the block itself?"
       answers:
-        - "Frances McDormand"
-        - "frances mcdormand"
+        - "Silk Touch"
+        - "silk touch"
     369:
-      question: "Which 2019 film starred Keanu Reeves as a retired hitman fighting the High Table?"
+      question: "What film starred Keanu Reeves as a retired hitman fighting the High Table?"
       answers:
         - "John Wick: Chapter 3 – Parabellum"
         - "John Wick 3"
@@ -3688,72 +3686,70 @@ trivia:
         - "john wick 3"
         - "john wick: chapter 3"
     370:
-      question: "What is the name of the hotel where the characters stay in the 2014 Wes Anderson film The Grand Budapest Hotel?"
+      question: "Where the do the characters stay in the film The Grand Budapest Hotel?"
       answers:
         - "The Grand Budapest Hotel"
         - "Grand Budapest Hotel"
         - "the grand budapest hotel"
         - "grand budapest hotel"
     371:
-      question: "The 2012 film Prometheus is a prequel to what classic sci-fi/horror franchise?"
+      question: "The film Prometheus is a prequel to what sci-fi/horror franchise?"
       answers:
         - "Alien"
         - "The Alien Franchise"
         - "alien"
         - "the alien franchise"
     372:
-      question: "What is the name of the bear that mauls Hugh Glass in The Revenant (2015), which earned Leonardo DiCaprio his first acting Oscar?"
+      question: "What block is used to apply an Enchanted Book to an item?"
       answers:
-        - "Bear"
-        - "Grizzly Bear"
-        - "bear"
-        - "grizzly bear"
+        - "Anvil"
+        - "anvil"
     373:
-      question: "What movie (2016) is a neo-noir crime thriller starring Ryan Gosling and Russell Crowe?"
+      question: "What boots enchantment allows you to turn water  into ice?"
       answers:
-        - "The Nice Guys"
-        - "nice guys"
-        - "the nice guys"
+        - "Frost Walker"
+        - "frost walker"
     374:
-      question: "Which Tom Cruise film (2022) was a sequel to a classic 1986 film and became a massive box-office success?"
+      question: "Glass, obsidian, and a nether star, and provides status effects?"
       answers:
-        - "Top Gun: Maverick"
-        - "Top Gun 2"
-        - "top gun: maverick"
-        - "top gun 2"
-    375:
-      question: "The 2018 horror film A Quiet Place is centered around a family who must remain silent to avoid what?"
+        - "Beacon"
+    275:
+      question: "What dimension is the source of Ancient Debris?"
       answers:
-        - "Alien creatures"
-        - "Monsters"
-        - "creatures"
-        - "monsters"
-        - "alien creatures"
+        - "The Nether"
+        - "Nether"
+        - "nether"
+        - "the nether"
     376:
-      question: "Which sci-fi movie (2017) is the sequel to the 1982 classic Blade Runner?"
+      question: "What movie is the sequel to the 1982 film Blade Runner?"
       answers:
         - "Blade Runner 2049"
         - "blade runner 2049"
+        - "2049"
     377:
-      question: "In Looper (2012), what profession is Joe, played by Joseph Gordon-Levitt and Bruce Willis?"
+      question: "Which ocean structure is the only source of Sponges?"
       answers:
-        - "Looper"
-        - "Assassin"
-        - "looper"
-        - "assassin"
+        - "Ocean Monument"
+        - "Monument"
+        - "Water Temple"
+        - "Guardian Temple"
+        - "monument"
+        - "ocean monument"
     378:
-      question: "Which 2010 film tells the story of the founding of Facebook?"
+      question: "What film tells the story of the founding of Facebook?"
       answers:
         - "The Social Network"
         - "social network"
         - "the social network"
     379:
-      question: "What 2017 horror film, directed by Jordan Peele, introduced the concept of 'The Sunken Place'?"
+      question: "What rare item is dropped by an evoker?"
       answers:
-        - "Get Out"
-        - "get out"
+        - "Totem of Undying"
+        - "Totem"
+        - "totem"
+        - "totem of undying"
     380:
-      question: "The 2014 film Whiplash follows a young jazz drummer's intense relationship with his abusive instructor, played by what actor?"
+      question: "Who plays Terence Fletcher in Whiplash?"
       answers:
         - "J.K. Simmons"
         - "JK Simmons"
@@ -3766,340 +3762,152 @@ trivia:
       answers:
         - "Minceraft"
         - "Min-ceraft"
+        - "minceraft"
     382:
-      question: "What is the fictional name of the missing woman in the 2014 mystery-thriller Gone Girl?"
+      question: "What is the name of the missing woman in the movie Gone Girl?"
       answers:
         - "Amy Dunne"
         - "amy dunne"
-    383:
-      question: "What 2013 Spike Jonze film stars Joaquin Phoenix as a lonely writer who falls in love with an operating system voiced by Scarlett Johansson?"
+    483:
+      question: "What block is typically found surrounding a monster spawner in a dungeon?"
       answers:
-        - "Her"
-        - "her"
+        - "Cobblestone"
+        - "cobblestone"
+        - "mossy cobblestone"
+        - "Mossy Cobblestone"
     384:
-      question: "Which 2010 psychological thriller stars Leonardo DiCaprio as a US Marshal investigating a missing patient from a hospital for the criminally insane?"
+      question: "What is the maximum height (Y-level) where players can place blocks in the Overworld?"
       answers:
-        - "Shutter Island"
-        - "shutter island"
+        - "320"
+        - "Y320"
+        - "320 blocks"
     385:
-      question: "What is the name of the high school Charlie attends in The Perks of Being a Wallflower (2012)?"
+      question: "What is the name of the school Charlie attends in The Perks of Being a Wallflower?"
       answers:
         - "Brownsville High School"
         - "Brownsville"
         - "brownsville high school"
         - "brownsville"
     386:
-      question: "Which 2019 South Korean film about a poor family infiltrating a wealthy family's lives won the Palme d'Or and the Academy Award for Best Picture?"
+      question: "What structure in the Nether is the only place Blazes naturally spawn?"
       answers:
-        - "Parasite"
-        - "parasite"
+        - "Nether Fortress"
+        - "Fortress"
+        - "fortress"
+        - "nether fortress"
     387:
-      question: "The 2013 drama Dallas Buyers Club stars Matthew McConaughey as Ron Woodroof, a man diagnosed with what disease?"
+      question: "What structure is the only place where you can find an End Portal?"
       answers:
-        - "AIDS"
-        - "HIV"
-        - "aids"
-        - "hiv"
+        - "Stronghold"
+        - "Strong Holds"
+        - "stronghold"
+        - "strong hold"
     388:
-      question: "Who directed the 2019 World War I film 1917, which was famously shot to look like one continuous take?"
+      question: "What WWI film was famously shot to look like one continuous take?"
       answers:
-        - "Sam Mendes"
-        - "sam mendes"
+        - "1917"
     389:
-      question: "In The Wolf of Wall Street (2013), what is the name of the brokerage firm founded by Jordan Belfort?"
+      question: "In which biome do you find Desert Temples?"
       answers:
-        - "Stratton Oakmont"
-        - "stratton oakmont"
+        - "Desert"
+        - "Sand Biome"
+        - "desert"
     390:
-      question: "Which 2016 film, directed by Barry Jenkins, won the controversial Best Picture Oscar after La La Land was mistakenly announced?"
+      question: "What block is needed to build the frame of a Nether Portal?"
       answers:
-        - "Moonlight"
-        - "moonlight"
+        - "Obsidian"
+        - "obsidian"
     391:
-      question: "What actor played the role of Django in the 2012 Quentin Tarantino Western, Django Unchained?"
+      question: "What is the name of the 3 headed flying boss mob?"
       answers:
-        - "Jamie Foxx"
-        - "jamie foxx"
+        - "Wither"
+        - "The Wither"
+        - "the wither"
+        - "wither"
     392:
-      question: "Which actress played the lead role of Lisbeth Salander in the American adaptation of The Girl with the Dragon Tattoo (2011)?"
+      question: "What item is dropped by a Blaze?"
       answers:
-        - "Rooney Mara"
-        - "rooney mara"
+        - "Blaze Rod"
+        - "blaze rod"
     393:
-      question: "What is the name of the main detective in Prisoners (2013)?"
+      question: "What mob drops a Ghast Tear?"
       answers:
-        - "Detective Loki"
-        - "Loki"
-        - "detective loki"
-        - "loki"
+        - "Ghast"
+        - "ghast"
     394:
-      question: "Which 2010 film saw Natalie Portman win an Academy Award for her performance as a perfectionist ballet dancer?"
+      question: "What mob can be cured with a Potion of Weakness and a Golden Apple?"
       answers:
-        - "Black Swan"
-        - "black swan"
+        - "Zombie Villager"
+        - "zombie villager"
     395:
-      question: "What is the name of the boat used by the main characters in the 2017 war film Dunkirk?"
+      question: "What item does an Enderman drop when killed?"
       answers:
-        - "Moonstone"
-        - "moonstone"
+        - "Ender Pearl"
+        - "Pearl"
+        - "ender pearl"
+        - "pearl"
     396:
-      question: "Which 2016 film features Casey Affleck as a man who becomes the guardian of his nephew after his brother's death?"
+      question: "What is the main boss mob of The End dimension?"
       answers:
-        - "Manchester by the Sea"
-        - "manchester by the sea"
+        - "Ender Dragon"
+        - "Dragon"
+        - "ender dragon"
+        - "dragon"
     397:
-      question: "The 2014 film Birdman or (The Unexpected Virtue of Ignorance) follows an actor, played by Michael Keaton, famous for playing what comic book superhero?"
+      question: "What item is commonly dropped by a Zombie?"
       answers:
-        - "Birdman"
-        - "birdman"
+        - "Rotten Flesh"
+        - "rotten flesh"
     398:
-      question: "What celebrity vocal group performs at the wedding in Bridesmaids (2011)?"
+      question: "What item is used to brew a Potion of Healing?"
       answers:
-        - "Wilson Phillips"
-        - "wilson phillips"
+        - "Glistering Melon Slice"
+        - "Glistering Melon"
+        - "Melon"
+        - "glistering melon"
+        - "melon"
+        - "glistering melon slice"
     399:
-      question: "What is the name of the talking bear in the 2012 comedy Ted?"
+      question: "What block is crafted by placing 9 Iron Ingots in a crafting table?"
       answers:
-        - "Ted"
-        - "ted"
+        - "Block of Iron"
+        - "Iron Block"
+        - "Iron"
+        - "iron"
+        - "block of iron"
+        - "iron block"
     400:
-      question: "What 2014 satirical comedy film stars Seth Rogen and James Franco as journalists tasked with assassinating Kim Jong-un?"
+      question: "How many wooden planks are needed to craft a Chest?"
       answers:
-        - "The Interview"
-        - "interview"
-        - "the interview"
+        - "8"
+        - "Eight"
+        - "eight"
     401:
-      question: "What 2012 sequel film is about two police officers (Jonah Hill and Channing Tatum) who go undercover at a local college?"
+      question: "What item is obtained by smelting Cobblestone in a furnace?"
       answers:
-        - "21 Jump Street"
-        - "21 jump street"
+        - "Stone"
+        - "Smooth Stone"
+        - "Regular Stone"
+        - "stone"
+        - "regular stone"
+        - "smooth stone"
     402:
-      question: "Which actress played the title character in the 2011 comedy Young Adult?"
+      question: "What item is obtained by cooking Raw Iron in a furnace?"
       answers:
-        - "Charlize Theron"
-        - "charlize theron"
+        - "Iron Ingot"
+        - "Ingot"
+        - "iron ingot"
+        - "ingot"
     403:
-      question: "The 2014 comedy Neighbors features a young couple feuding with what type of organization next door?"
+      question: "Who does Andy Samberg play in Brooklyn Nine-Nine?"
       answers:
-        - "Fraternity"
-        - "Delta Psi Beta"
-        - "fraternity"
-        - "delta psi beta"
+        - "jake peralta"
+        - "jake"
+        - "Jake"
+        - "Jake Peralta"
+        - "Peralta"
+        - "peralta"
     404:
-      question: "What is the name of the video game in the 2010 comedy Scott Pilgrim vs. the World?"
-      answers:
-        - "Scott Pilgrim vs. the World"
-        - "scott pilgrim vs. the world"
-    405:
-      question: "Which 2011 Muppets movie starred Jason Segel and Amy Adams?"
-      answers:
-        - "The Muppets"
-        - "muppets"
-        - "the muppets"
-    406:
-      question: "In Paddington (2014), what is the name of the family that takes in the bear?"
-      answers:
-        - "Brown"
-        - "the Brown family"
-        - "brown"
-        - "the brown family"
-    407:
-      question: "What 2017 movie, directed by Greta Gerwig, is a coming-of-age comedy-drama starring Saoirse Ronan?"
-      answers:
-        - "Lady Bird"
-        - "lady bird"
-    408:
-      question: "What comedy (2016) is a sequel that follows a group of friends who travel to New Orleans for a wild night?"
-      answers:
-        - "Girls Trip"
-        - "girls trip"
-    409:
-      question: "Which 2015 movie starring Tina Fey and Amy Poehler sees two disconnected sisters throwing one final house party?"
-      answers:
-        - "Sisters"
-        - "sisters"
-    410:
-      question: "What actor plays the character of the wealthy, extravagant Jay Gatsby in the 2013 film adaptation?"
-      answers:
-        - "Leonardo DiCaprio"
-        - "Leo DiCaprio"
-        - "leonardo dicaprio"
-        - "leo dicaprio"
-    411:
-      question: "The 2010 film The Kids Are All Right features a same-sex couple whose children try to find their what?"
-      answers:
-        - "Sperm donor"
-        - "Father"
-        - "Biological father"
-        - "sperm donor"
-        - "father"
-        - "biological father"
-    412:
-      question: "Which 2012 film features Matthew McConaughey as a male stripper who takes a younger man under his wing?"
-      answers:
-        - "Magic Mike"
-        - "magic mike"
-    413:
-      question: "What is the name of the camp that Max attends in the 2012 Wes Anderson film Moonrise Kingdom?"
-      answers:
-        - "Camp Ivanhoe"
-        - "Ivanhoe"
-        - "camp ivanhoe"
-        - "ivanhoe"
-    414:
-      question: "The 2011 film Extremely Loud & Incredibly Close is centered around a boy named Oscar whose father died in what historical event?"
-      answers:
-        - "9/11"
-        - "September 11th Attacks"
-        - "9 11"
-        - "September 11"
-        - "nine eleven"
-        - "9/11 attacks"
-    415:
-      question: "Which 2018 film starring Sandra Bullock is about a group of female criminals planning a heist at the Met Gala?"
-      answers:
-        - "Ocean's 8"
-        - "Oceans 8"
-        - "ocean's 8"
-        - "oceans 8"
-    416:
-      question: "What is the name of the fictional town where It (2017) and its sequel take place?"
-      answers:
-        - "Derry"
-        - "Derry, Maine"
-        - "derry"
-        - "derry, maine"
-    417:
-      question: "What actor plays the main villain, Immortan Joe, in Mad Max: Fury Road (2015)?"
-      answers:
-        - "Hugh Keays-Byrne"
-        - "hugh keays-byrne"
-    418:
-      question: "Which 2018 movie features a wealthy Asian-American woman who travels to Singapore to meet her boyfriend's family?"
-      answers:
-        - "Crazy Rich Asians"
-        - "crazy rich asians"
-    419:
-      question: "What 2015 action-comedy is a loose adaptation of a 1960s TV series, starring Henry Cavill and Armie Hammer?"
-      answers:
-        - "The Man from U.N.C.L.E."
-        - "Man from U.N.C.L.E."
-        - "the man from u.n.c.l.e."
-        - "man from u.n.c.l.e."
-    420:
-      question: "What is the name of the character played by Amy Adams in the 2016 sci-fi film Arrival?"
-      answers:
-        - "Dr. Louise Banks"
-        - "Louise Banks"
-        - "dr. louise banks"
-        - "louise banks"
-    421:
-      question: "The 2013 horror film The Conjuring is based on the real-life paranormal investigators Ed and Lorraine Warren. What is the name of the family who lived in the home they investigate?"
-      answers:
-        - "Perron"
-        - "The Perron family"
-        - "perron"
-        - "the perron family"
-    422:
-      question: "Which 2017 film is a live-action musical adaptation of a Disney classic, starring Emma Watson?"
-      answers:
-        - "Beauty and the Beast"
-        - "beauty and the beast"
-    423:
-      question: "What is the name of the parallel universe in Stranger Things (2016)?"
-      answers:
-        - "The Upside Down"
-        - "Upside Down"
-        - "the upside down"
-        - "upside down"
-    424:
-      question: "What is the name of Negan's baseball bat wrapped in barbed wire in The Walking Dead (2010)?"
-      answers:
-        - "Lucille"
-        - "lucille"
-    425:
-      question: "What name is given to the mystical, ever-looming threat of a very long winter in Game of Thrones (2011)?"
-      answers:
-        - "The Long Night"
-        - "Long Night"
-        - "Winter"
-        - "the long night"
-        - "long night"
-        - "winter"
-    426:
-      question: "In Breaking Bad (2008-2013), what is the street name or pseudonym used by chemistry teacher Walter White?"
-      answers:
-        - "Heisenberg"
-        - "heisenberg"
-    427:
-      question: "What fictional location, guarded by the Night's Watch, separates the Seven Kingdoms from the lands beyond in Game of Thrones?"
-      answers:
-        - "The Wall"
-        - "Wall"
-        - "the wall"
-        - "wall"
-    428:
-      question: "The 2014 mystery series True Detective featured Matthew McConaughey and Woody Harrelson in its first season as detectives in what state?"
-      answers:
-        - "Louisiana"
-        - "louisiana"
-    429:
-      question: "In Westworld (2016), what is the term used to describe the lifelike robots that populate the theme park?"
-      answers:
-        - "Hosts"
-        - "hosts"
-    430:
-      question: "Which 2019 miniseries about a catastrophic nuclear disaster was one of HBO's highest-rated shows?"
-      answers:
-        - "Chernobyl"
-        - "chernobyl"
-    431:
-      question: "What is the name of the high school in the fictional town of Hawkins, Indiana, on Stranger Things?"
-      answers:
-        - "Hawkins High School"
-        - "Hawkins High"
-        - "hawkins high school"
-        - "hawkins high"
-    432:
-      question: "In the Sherlock (2010) series, who plays Sherlock Holmes's sidekick, Dr. John Watson?"
-      answers:
-        - "Martin Freeman"
-        - "martin freeman"
-    433:
-      question: "Better Call Saul (2015) is a prequel/spin-off centered on what lawyer from Breaking Bad?"
-      answers:
-        - "Saul Goodman"
-        - "Jimmy McGill"
-        - "Jimmy"
-        - "saul goodman"
-        - "jimmy mcgill"
-        - "jimmy"
-    434:
-      question: "Who plays the character of the lonely bounty hunter in the Star Wars-based series The Mandalorian (2019)?"
-      answers:
-        - "Pedro Pascal"
-        - "Mando"
-        - "Din Djarin"
-        - "pedro pascal"
-        - "mando"
-        - "din djarin"
-    435:
-      question: "Which organization does Agent Phil Coulson lead in the series Agents of S.H.I.E.L.D. (2013)?"
-      answers:
-        - "S.H.I.E.L.D."
-        - "SHIELD"
-        - "shield"
-        - "s.h.i.e.l.d."
-    436:
-      question: "What are the names of the two main characters, one a detective and one a forensic scientist, in the British crime drama Luther (2010)?"
-      answers:
-        - "John Luther and Alice Morgan"
-        - "Luther and Alice"
-        - "John Luther"
-        - "Alice Morgan"
-        - "luther and alice"
-        - "john luther and alice morgan"
-    437:
       question: "What is the name of the large, dangerous creatures that come from the Upside Down in Stranger Things?"
       answers:
         - "Demogorgon"
@@ -4108,382 +3916,98 @@ trivia:
         - "demogorgon"
         - "mind flayer"
         - "demodogs"
-    438:
-      question: "The final season of Game of Thrones (2019) featured a coffee cup from what modern chain making a noticeable error cameo?"
-      answers:
-        - "Starbucks"
-        - "starbucks"
-    439:
-      question: "In American Horror Story (2011), what is the name of the actress who has appeared in the most seasons and roles?"
-      answers:
-        - "Sarah Paulson"
-        - "sarah paulson"
-    440:
-      question: "What is the name of the kingdom that Daenerys Targaryen seeks to rule in Game of Thrones?"
-      answers:
-        - "Westeros"
-        - "The Seven Kingdoms"
-        - "westeros"
-        - "seven kingdoms"
-        - "the seven kingdoms"
-    441:
-      question: "Which 2011 series starring Damian Lewis and Claire Danes follows a CIA officer who believes a recently rescued American POW has been turned by al-Qaeda?"
-      answers:
-        - "Homeland"
-        - "homeland"
-    442:
-      question: "In The Umbrella Academy (2019), what is the name of the dysfunctional group of adopted siblings with superpowers?"
-      answers:
-        - "The Umbrella Academy"
-        - "Umbrella Academy"
-        - "The Hargreeves Siblings"
-        - "the umbrella academy"
-        - "umbrella academy"
-        - "the hargreeves siblings"
-    443:
-      question: "Which two actors play police partners Jake Peralta and Captain Raymond Holt in Brooklyn Nine-Nine (2013)?"
-      answers:
-        - "Andy Samberg and Andre Braugher"
-        - "Samberg and Braugher"
-        - "andy samberg and andre braugher"
-        - "samberg and braugher"
-    444:
-      question: "In The Big Bang Theory (2007-2019), what is the name of the Cheesecake Factory waitress who lives across the hall from the scientists?"
-      answers:
-        - "Penny"
-        - "penny"
-    445:
-      question: "Which workplace comedy, created by and starring Issa Rae, focused on the awkward experiences of a contemporary Black woman? (It premiered in 2016.)"
-      answers:
-        - "Insecure"
-        - "insecure"
-    446:
-      question: "On Modern Family (2009-2020), which character is a dedicated stay-at-home dad who coaches football?"
-      answers:
-        - "Cameron Tucker"
-        - "Cameron"
-        - "Cam"
-        - "cameron tucker"
-        - "cameron"
-        - "cam"
-    447:
-      question: "Which character on The Big Bang Theory is known for his signature bow ties and fear of public speaking (at first)?"
-      answers:
-        - "Raj Koothrappali"
-        - "Raj"
-        - "raj koothrappali"
-        - "raj"
-    448:
-      question: "What is the name of the British royal family member whose reign is chronicled in the Netflix series The Crown (2016)?"
-      answers:
-        - "Queen Elizabeth II"
-        - "Elizabeth II"
-        - "queen elizabeth ii"
-        - "elizabeth ii"
-    449:
-      question: "What crime drama (2017) is based on the novel by Liane Moriarty and stars Reese Witherspoon and Nicole Kidman as part of the 'Monterey Five'?"
-      answers:
-        - "Big Little Lies"
-        - "big little lies"
-    450:
-      question: "Which actress won an Emmy for her role as Miriam 'Midge' Maisel, a 1950s housewife who pursues a career in stand-up comedy in The Marvelous Mrs. Maisel (2017)?"
-      answers:
-        - "Rachel Brosnahan"
-        - "rachel brosnahan"
-    451:
-      question: "The main character in The Queen's Gambit (2020), Beth Harmon, excels at what game?"
-      answers:
-        - "Chess"
-        - "chess"
-    452:
-      question: "What is the name of the family of gangsters led by Thomas Shelby in the British period drama Peaky Blinders (2013)?"
-      answers:
-        - "Shelby"
-        - "shelby"
-    453:
-      question: "What item is obtained by cooking Raw Iron in a furnace?"
-      answers:
-        - "Iron Ingot"
-        - "Ingot"
-        - "Iron"
-        - "Ingots"
-        - "Iron Bar"
-    454:
-      question: "What item is obtained by cooking Cobblestone in a furnace?"
-      answers:
-        - "Stone"
-        - "Smooth Stone"
-        - "Regular Stone"
-    455:
-      question: "How many wooden planks are needed to craft a Chest?"
-      answers:
-        - "8"
-        - "Eight"
-    456:
-      question: "What block is crafted by placing 9 Iron Ingots in a crafting table?"
-      answers:
-        - "Block of Iron"
-        - "Iron Block"
-        - "Iron"
-    457:
-      question: "What two items are combined to craft a Torch?"
-      answers:
-        - "Coal and Stick"
-        - "Coal"
-        - "Stick"
-        - "Charcoal"
-        - "Coal and Sticks"
-        - "Stick and Coal"
-        - "Charcoal and Stick"
-    458:
-      question: "What is Raw Iron combined with to make an Iron Block?"
-      answers:
-        - "It is not combined, it is smelted first"
-        - "Smelted"
-        - "You can't craft it"
-        - "Smelt the raw iron"
-    459:
-      question: "What ore is smelted to obtain Copper Ingot?"
-      answers:
-        - "Raw Copper"
-        - "Copper Ore"
-        - "Copper"
-    460:
-      question: "What item is used to craft a Potion of Healing?"
-      answers:
-        - "Glistering Melon Slice"
-        - "Glistering Melon"
-        - "Melon"
-        - "Golden Melon"
-    461:
-      question: "What two main materials are used to craft a Bed?"
-      answers:
-        - "Wood and Wool"
-        - "Planks and Wool"
-        - "Wooden Planks"
-        - "Wool"
-    462:
-      question: "What is the highest tier tool material that *cannot* be used to make armor?"
-      answers:
-        - "Gold"
-        - "Golden"
-    463:
-      question: "What item is commonly dropped by a Zombie?"
-      answers:
-        - "Rotten Flesh"
-        - "Flesh"
-        - "Rotten"
-        - "Iron Ingot"
-        - "Carrot"
-        - "Potato"
-    464:
-      question: "What is the main boss mob of The End dimension?"
-      answers:
-        - "Ender Dragon"
-        - "Dragon"
-    465:
-      question: "What item is dropped when a Creeper is killed by a Skeleton's arrow?"
-      answers:
-        - "Music Disc"
-        - "Disc"
-        - "Music disk"
-        - "Disk"
-    466:
-      question: "What item does an Enderman drop when killed?"
-      answers:
-        - "Ender Pearl"
-        - "Pearl"
-    467:
-      question: "What mob can be cured with a Potion of Weakness and a Golden Apple?"
-      answers:
-        - "Zombie Villager"
-        - "Z-Villager"
-        - "Infected Villager"
-    468:
-      question: "What food item can you feed a tamed wolf to heal it?"
-      answers:
-        - "Any Meat"
-        - "Rotten Flesh"
-        - "Cooked Porkchop"
-        - "Steak"
-        - "Cooked Salmon"
-        - "Raw Beef"
-    469:
-      question: "What mob drops a **Ghast Tear**?"
-      answers:
-        - "Ghast"
-    470:
-      question: "What is the neutral mob that can be tamed by using a Raw Cod or Raw Salmon?"
-      answers:
-        - "Ocelot"
-        - "Cat"
-        - "Ocelote"
-    471:
-      question: "What item is dropped by a Blaze?"
-      answers:
-        - "Blaze Rod"
-        - "Rod"
-    472:
-      question: "What is the name of the two-headed, flying boss mob of the Overworld (created by players)?"
-      answers:
-        - "Wither"
-        - "The Wither"
-    473:
-      question: "What block is needed to build the frame of a Nether Portal?"
-      answers:
-        - "Obsidian"
-    474:
-      question: "What item is used to activate a Nether Portal?"
-      answers:
-        - "Flint and Steel"
-        - "Flint"
-        - "Fire"
-        - "Lighter"
-        - "Flint N Steel"
-    475:
-      question: "In which biome do you commonly find Desert Temples (Pyramids)?"
-      answers:
-        - "Desert"
-        - "Sand Biome"
-    476:
-      question: "What structure is the only place where you can find an End Portal pre-activated?"
-      answers:
-        - "Stronghold"
-        - "Strong Holds"
-    477:
-      question: "What structure in the Nether is the only place Blazes naturally spawn?"
-      answers:
-        - "Nether Fortress"
-        - "Fortress"
-        - "Nether Fort"
-    478:
-      question: "What is the maximum height (Y-level) where players can place blocks in the Overworld?"
-      answers:
-        - "320"
-        - "Y320"
-        - "320 blocks"
-    479:
-      question: "What block is typically found surrounding a monster spawner in a dungeon?"
-      answers:
-        - "Cobblestone"
-        - "Cobble"
-    480:
-      question: "What rare item is only found in a Woodland Mansion's hidden room?"
-      answers:
-        - "Totem of Undying"
-        - "Totem"
-    481:
-      question: "Which ocean structure is the only source of Sponges?"
-      answers:
-        - "Ocean Monument"
-        - "Monument"
-        - "Water Temple"
-        - "Guardian Temple"
-    482:
-      question: "What dimension is the source of **Ancient Debris**?"
-      answers:
-        - "The Nether"
-        - "Nether"
-    483:
-      question: "What item is crafted from iron, gold, redstone, and a nether star, and provides status effects?"
-      answers:
-        - "Beacon"
-    484:
-      question: "What enchantment on boots allows you to walk on water by turning it to ice?"
-      answers:
-        - "Frost Walker"
-        - "FW"
-    485:
-      question: "What is the highest level an enchantment can reach on an enchanting table without an Anvil?"
-      answers:
-        - "Level 30"
-        - "30"
-    486:
-      question: "What item is used to combine two damaged items or to apply an Enchanted Book to a tool?"
-      answers:
-        - "Anvil"
-    487:
-      question: "What enchantment allows a pickaxe to mine and drop the block itself instead of a derived item (like a stone block instead of cobblestone)?"
-      answers:
-        - "Silk Touch"
-        - "Silk"
-        - "ST"
-    488:
-      question: "What block acts as a movable block in a redstone circuit, capable of pushing and pulling?"
-      answers:
-        - "Piston"
-        - "Sticky Piston"
-        - "Pistons"
-    489:
-      question: "What is the primary function of an **Observer** block?"
-      answers:
-        - "Detect Block Change"
-        - "Detects change"
-        - "Observes"
-        - "Detects block update"
-    490:
-      question: "What block, when powered by redstone, will always output a signal strength of 15?"
-      answers:
-        - "Redstone Block"
-        - "Redstone Torch"
-        - "Block of Redstone"
-        - "Lever (when on)"
-    491:
-      question: "What enchantment gives an item a chance to not consume a projectile or lower durability when used?"
-      answers:
-        - "Unbreaking"
-        - "UB"
-    492:
-      question: "What color dye is made from a Cactus?"
-      answers:
-        - "Green"
-        - "Cactus Green"
-    493:
-      question: "What is the name of the main player skin/character in Minecraft?"
-      answers:
-        - "Steve"
-    494:
-      question: "What is the in-game name of Minecraft's original creator?"
-      answers:
-        - "Notch"
-        - "Markus Persson"
-        - "Persson"
-        - "Markus"
-    495:
-      question: "Which material of tools (Pickaxe, Axe, etc.) mines the fastest but has the lowest durability?"
-      answers:
-        - "Gold"
-        - "Golden"
-    496:
-      question: "What mob explodes upon contact with the player after a short fuse?"
-      answers:
-        - "Creeper"
-    497:
-      question: "What mob is naturally scared of Ocelots?"
-      answers:
-        - "Creeper"
-    498:
-      question: "How many buckets of water are needed to create a single infinite water source?"
-      answers:
-        - "Two"
-        - "2"
-    499:
-      question: "What item can you put on your head to prevent Endermen from becoming hostile when you look at them?"
-      answers:
-        - "Carved Pumpkin"
-        - "Pumpkin"
-        - "Jack o'Lantern"
-    500:
-      question: "What do you use to safely collect the wool from a Sheep without killing it?"
-      answers:
-        - "Shears"
-        - "Shear"
-        - "Scissors"
-    501:
-      question: "What happens to a Pig when it is struck by lightning?"
-      answers:
-        - "Turns into a Zombified Piglin"
-        - "Zombified Piglin"
-        - "Zombie Pigman"
-        - "Zombie Piglin"
+        - "demogrogons"
+        - "demogorgons"
+    405:
+      question: "Who plays the Mandalorian in The Mandalorian?"
+      answers:
+        - "Pedro Pascal"
+        - "pedro pascal"
+    406:
+      question: "In Paddington, what is the name of the family that takes in the bear?"
+      answers:
+        - "Brown"
+        - "the Brown family"
+        - "brown"
+        - "the brown family"
+    407:
+      question: "What is the name of the parallel universe in Stranger Things?"
+      answers:
+        - "The Upside Down"
+        - "Upside Down"
+        - "the upside down"
+        - "upside down"
+    408:
+      question: "What is the name of the high school in the fictional town of Hawkins, Indiana, on Stranger Things?"
+      answers:
+        - "Hawkins High School"
+        - "Hawkins High"
+        - "hawkins high school"
+        - "hawkins high"
+    409:
+      question: "In the Sherlock series, who plays Dr. John Watson?"
+      answers:
+        - "Martin Freeman"
+        - "martin freeman"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
