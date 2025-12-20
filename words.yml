@@ -3496,7 +3496,7 @@ trivia:
         - "pumpkin"
         - "carved pumpkin"
     337:
-      question: "Which actress plays Pepper Potts in the MCU?""
+      question: "Which actress plays Pepper Potts in the MCU?"
       answers:
         - "Gwyneth Paltrow"
         - "gwyneth paltrow"
@@ -3713,7 +3713,7 @@ trivia:
       question: "Glass, obsidian, and a nether star, and provides status effects?"
       answers:
         - "Beacon"
-    275:
+    375:
       question: "What dimension is the source of Ancient Debris?"
       answers:
         - "The Nether"
@@ -3949,65 +3949,3 @@ trivia:
       answers:
         - "Martin Freeman"
         - "martin freeman"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
