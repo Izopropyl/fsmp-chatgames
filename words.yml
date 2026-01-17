@@ -1899,17 +1899,13 @@ trivia:
       answers: 
         - 'Russia'
     29:
-      question: 'Who killed Aquiles?'
+      question: 'Who killed Achilles?'
       answers: 
         - 'Paris'
     30:
       question: 'What is the capital of Aragon?'
       answers: 
         - 'Saragossa'
-    31:
-      question: 'Which Beatles member was murdered?'
-      answers: 
-        - 'John Lennon'
     32:
       question: 'How long does a soccer game last?'
       answers: 
@@ -3056,10 +3052,9 @@ trivia:
       - 'Sandy'
       - 'Sandy Cheeks'
     258:
-      question: 'Name any FSMP staff member (username)'
+      question: 'Name your favorite FSMP staff member (username)'
       answers:
       - 'Jamplifier'
-      - 'rarerarera'
       - 'Kovei_ykla'
       - 'Kingidk'
       - 'MattPad_'
@@ -3069,8 +3064,13 @@ trivia:
       - 'Gamercorpse'
       - 'maxbdot'
       - 'starboooost'
-      - 'Pompoms3000'
+      - 'pompoms3000'
       - 'Jesssa'
+      - 'Hypdra'
+      - '.N0t_Rahil'
+      - 'N0t_Rahil'
+      - 'BlueSheep237'
+      - 'Jaixll'
     259:
       question: 'What element has the chemical symbol Sb?'
       answers:
@@ -3679,10 +3679,10 @@ trivia:
     369:
       question: "What film starred Keanu Reeves as a retired hitman fighting the High Table?"
       answers:
-        - "John Wick: Chapter 3 – Parabellum"
+        - "John Wick: Chapter 3   Parabellum"
         - "John Wick 3"
         - "John Wick: Chapter 3"
-        - "john wick: chapter 3 – parabellum"
+        - "john wick: chapter 3 parabellum"
         - "john wick 3"
         - "john wick: chapter 3"
     370:
