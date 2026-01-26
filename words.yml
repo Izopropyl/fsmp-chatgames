@@ -2353,7 +2353,7 @@ trivia:
       answers:
         - '64'
     136:
-      question: 'What is used to create banners in Minecraft?'
+      question: 'What is used to design banners in Minecraft?'
       answers:
         - 'Loom'
     137:
@@ -2794,9 +2794,10 @@ trivia:
       answers:
         - "5"
     213:
-      question: 'What is the name of the main character in Grand Theft Auto V with a dog named Chop?'
+      question: "In the Sherlock series, who plays Dr. John Watson?"
       answers:
-        - "Franklin"
+        - "Martin Freeman"
+        - "martin freeman"
     214:
       question: 'True or fasle. The creeper in minecraft was originally a coding bug?'
       answers: 
@@ -3967,8 +3968,4 @@ trivia:
         - "Hawkins High"
         - "hawkins high school"
         - "hawkins high"
-    409:
-      question: "In the Sherlock series, who plays Dr. John Watson?"
-      answers:
-        - "Martin Freeman"
-        - "martin freeman"
+
