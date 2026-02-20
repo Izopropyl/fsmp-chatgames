@@ -2854,10 +2854,12 @@ trivia:
       answers:
         - "Bedrock"
     225:
-      question: "True or False: You can refer a friend to Friendlysmp and gain rewards."
+      question: "What is the name of the high school in the fictional town of Hawkins, Indiana, on Stranger Things?"
       answers:
-        - "True"
-        - "true"
+        - "Hawkins High School"
+        - "Hawkins High"
+        - "hawkins high school"
+        - "hawkins high"
     226:
       question: "Name any player who was present during the death of the original Ender Dragon in Friendlysmp"
       answers:
@@ -3059,7 +3061,7 @@ trivia:
       - 'Jamp'
       - 'Jampy'
       - 'Kaj'
-      - 'Kovei_ykla'
+      - 'Kajidk'
       - 'Kingidk'
       - 'King'
       - 'MattPad_'
@@ -3084,8 +3086,10 @@ trivia:
       - 'Pom'
       - 'Jesssa'
       - 'Jessa'
+      - 'Jess'
       - 'Hypdra'
       - 'Hydra'
+      - 'Hyp'
       - '.N0t_Rahil'
       - 'Rahil'
       - 'NotRahil'
@@ -3093,6 +3097,7 @@ trivia:
       - 'BlueSheep237'
       - 'Blue'
       - 'BlueSheep'
+      - 'Bluesheep'
       - 'Jaixll'
       - 'Jai'
     259:
@@ -3961,11 +3966,5 @@ trivia:
         - "Upside Down"
         - "the upside down"
         - "upside down"
-    408:
-      question: "What is the name of the high school in the fictional town of Hawkins, Indiana, on Stranger Things?"
-      answers:
-        - "Hawkins High School"
-        - "Hawkins High"
-        - "hawkins high school"
-        - "hawkins high"
+
 
