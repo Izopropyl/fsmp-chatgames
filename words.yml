@@ -338,7 +338,6 @@ unscramble: &words
     - 'Curtain'
     - 'Cut'
     - 'Cycle'
-    - 'Dagger'
     - 'Dairy'
     - 'Dance'
     - 'Danger'
@@ -2799,7 +2798,7 @@ trivia:
         - "Martin Freeman"
         - "martin freeman"
     214:
-      question: 'True or fasle. The creeper in minecraft was originally a coding bug?'
+      question: 'True or false. The creeper in minecraft was originally a coding bug?'
       answers: 
         - "true"
         - 'True'
